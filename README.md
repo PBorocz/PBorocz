@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @PBorocz
 - 👀 I’m interested in big issues and small python development.
-- 🌱 I’m currently learning how to keep my technical "fix" while enjoying retirement
+- 🌱 I’m currently learning how to keep my technical "fix" while enjoying retirement.
 - 📫 You can reach me at peter dot borocz at gmail dot com
 
 <!---
