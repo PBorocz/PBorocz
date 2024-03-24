@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning how to keep my technical "fix" while enjoying retirement.
 - 📫 You can reach me at peter dot borocz at gmail dot com
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pborocz&show_icons=true&theme=transparent&hide_rank=True)](https://github.com/pborocz/github-readme-stats)
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pborocz&show_icons=true&theme=transparent&hide_rank=True&custom_title=My%20GitHub%20Stats)](https://github.com/pborocz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pborocz)](https://github.com/pborocz/github-readme-stats)
 
