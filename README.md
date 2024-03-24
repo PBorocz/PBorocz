@@ -2,10 +2,6 @@
 - 🌱 I’m currently learning how to keep my technical "fix" while enjoying retirement.
 - 📫 You can reach me at peter dot borocz at gmail dot com
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pborocz&show_icons=true&theme=transparent&hide_rank=True&custom_title=My%20GitHub%20Stats)](https://github.com/pborocz/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pborocz)](https://github.com/pborocz/github-readme-stats)
-
 <a href="https://github.com/pborocz/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pborocz&show_icons=true&theme=transparent&hide_rank=True&custom_title=My%20GitHub%20Stats" />
 </a>
@@ -13,9 +9,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pborocz" />
 </a>
 
-
 <!---
-https://github.com/anuraghazra/github-readme-stats#disable-rate-limit-protections
+Source! -> https://github.com/anuraghazra/github-readme-stats#disable-rate-limit-protections
 --->
 
 <!---
