@@ -1,5 +1,5 @@
 - 👀 I’m interested in big issues and small python development.
-- 🌱 I’m currently learning how to keep my technical "fix" while enjoying retirement.
+- 🌱 Continually trying to keep getting technical endorphins while enjoying retirement.
 - 📫 You can reach me at peter dot borocz at gmail dot com
 
 <a href="https://github.com/pborocz/github-readme-stats">
